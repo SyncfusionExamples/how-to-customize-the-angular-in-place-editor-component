@@ -3,7 +3,7 @@ A quick start Angular project that shows how to customize the Syncfusion Angular
 
 Example: https://ej2.syncfusion.com/angular/demos/#/material3/inplace-editor/default
 
-Documentation:  
+Documentation: 
 https://ej2.syncfusion.com/angular/documentation/inplace-editor/buttons
 https://ej2.syncfusion.com/angular/documentation/inplace-editor/configuration
 https://ej2.syncfusion.com/angular/documentation/inplace-editor/style
