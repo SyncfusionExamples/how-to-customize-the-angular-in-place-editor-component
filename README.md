@@ -2,6 +2,7 @@
 A quick start Angular project that shows how to customize the Syncfusion Angular In-Place Editor. This project also includes a code snippet to integrate save and cancel buttons, as well as insights on hiding the buttons and disabling the editing mode.
 
 Example: https://ej2.syncfusion.com/angular/demos/#/material3/inplace-editor/default
+
 Documentation:  
 https://ej2.syncfusion.com/angular/documentation/inplace-editor/buttons
 https://ej2.syncfusion.com/angular/documentation/inplace-editor/configuration
