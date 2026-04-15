@@ -1,39 +1,55 @@
 # How to Customize the Angular In-Place Editor Component
-A quick start Angular project that shows how to customize the Syncfusion Angular In-Place Editor. This project also includes a code snippet to integrate save and cancel buttons, as well as insights on hiding the buttons and disabling the editing mode.
 
-Example: https://ej2.syncfusion.com/angular/demos/#/material3/inplace-editor/default
+## Repository Description
 
-Documentation: 
-https://ej2.syncfusion.com/angular/documentation/inplace-editor/buttons
-https://ej2.syncfusion.com/angular/documentation/inplace-editor/configuration
-https://ej2.syncfusion.com/angular/documentation/inplace-editor/style
+A quick start Angular project demonstrating how to customize the Syncfusion Angular In-Place Editor component with comprehensive examples for integrating save and cancel buttons, along with techniques for hiding buttons and disabling editing mode.
 
-# Project pre-requisites
+## Features
 
-Make sure that you have the compatible versions of TypeScript and Angular in your machine before starting to work on this project.
+- ✅ In-Place Editor customization
+- ✅ Save and cancel button integration
+- ✅ Button visibility control
+- ✅ Editing mode management
+- ✅ Style customization
 
-Angular 4+
+## Prerequisites
 
-TypeScript 2.6+
+- **Angular**: 4.0 or higher
+- **TypeScript**: 2.6 or higher
+- **Node.js** and **npm**: Latest versions
 
-# How to run this application?
+## Installation
 
-To run this application, you need to first clone the how-to-customize-the-angular-in-place-editor-component repository and then navigate to its appropriate path where it has been in your system.
+1. **Clone the Repository**
 
-To do so, open the command prompt and run the below commands one after the other.
-
+```bash
 git clone angular-example
-
 cd angular-example
+```
 
-# Installing
+2. **Install Dependencies**
 
-Once done with downloading, next you need to install the necessary packages required to run this application locally. The npm install command will install all the needed angular packages into your current project and to do so, run the below command.
-
+```bash
 npm install
+```
 
-# Running on development server
+## Running on Development Server
 
-Run ng serve command for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+```bash
+ng serve
+```
 
+Navigate to `http://localhost:4200/` and the app reloads on file changes.
 
+## Customization Options
+
+- **Save and Cancel Buttons**: Add action buttons to confirm changes
+- **Button Visibility**: Show or hide buttons based on interactions
+- **Editing Mode**: Enable or disable editing as needed
+- **Styling**: Customize appearance through configuration
+
+## Documentation
+
+- **Examples**: https://ej2.syncfusion.com/angular/demos/#/material3/inplace-editor/default
+- **Buttons**: https://ej2.syncfusion.com/angular/documentation/inplace-editor/buttons
+- **Configuration**: https://ej2.syncfusion.com/angular/documentation/inplace-editor/configuration
